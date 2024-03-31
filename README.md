@@ -1,5 +1,5 @@
 # GPT-from-Scratch
-This repository contains the code for a project that I did during my winter vacation 2023. It was influenced by https://www.youtube.com/watch?v=VMj-3S1tku0&amp;list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ.
+This repository contains the code for a project that I did during my winter break 2023. It was influenced by https://www.youtube.com/watch?v=VMj-3S1tku0&amp;list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ.
 
 It contains Notebooks which implemented the following:
 - MicroGrad - Created a interface which implements reverse gradient calculations and creates a graph to display the updated network.
